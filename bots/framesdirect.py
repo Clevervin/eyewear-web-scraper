@@ -51,7 +51,6 @@ except Exception as e:
     raise
 
 
-# Step 1 - Initial Setup
 # Step 2 - Data Extraction
 
 import csv
@@ -100,6 +99,7 @@ driver = webdriver.Chrome(service=service, options=chrome_option)
 
 print("Driver ready")
 
+## Make connection with the URL
 url = "https://www.framesdirect.com/eyeglasses/"
 print(f"Visiting {url}")
 driver.get(url)
@@ -115,10 +115,13 @@ except Exception as e:
     driver.quit()
     raise
 
+# Data Parsing and Extraction
+# Get page source and parse using BeautifulSoup
 print("Parsing page source...")
 content = driver.page_source
 page = BeautifulSoup(content, "html.parser")
 
+# temporary storage for the extracted data
 products = []
 
 print("Extracting product data...")
@@ -156,9 +159,8 @@ print(f"Extracted {len(products)} products.")
 for product in products[:5]:
     print(product)
 
-# Step 3 - Data Storage
-
-
+# Step 3 - Data Storage: store the extracted data in CSV and JSON formats
+# Save to CSV file
 
 if products:
     column_names = products[0].keys()
@@ -170,6 +172,8 @@ if products:
 
     print(f"Saved {len(products)} records to CSV.")
 
+# Save to JSON file
+
     with open("./extracted_data/framesdirect-data.json", mode="w", encoding="utf-8") as json_file:
         json.dump(products, json_file, indent=4)
 
@@ -177,5 +181,6 @@ if products:
 else:
     print("No products were extracted, so no files were created.")
 
+# close the browser
 driver.quit()
-print("End of Step 3")
+print("End of web extraction")

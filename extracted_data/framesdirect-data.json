@@ -8,13 +8,6 @@
     },
     {
         "Vendor": "FramesDirect",
-        "Brand": "Ray-Ban",
-        "Product_Name": "RB5397 - Elliot Optics",
-        "Former_Price": 210.0,
-        "Current_Price": 147.0
-    },
-    {
-        "Vendor": "FramesDirect",
         "Brand": "Oakley",
         "Product_Name": "Airdrop",
         "Former_Price": 227.0,
@@ -26,13 +19,6 @@
         "Product_Name": "RB7047",
         "Former_Price": 176.0,
         "Current_Price": 123.2
-    },
-    {
-        "Vendor": "FramesDirect",
-        "Brand": "Oakley",
-        "Product_Name": "Pitchman R",
-        "Former_Price": 255.0,
-        "Current_Price": 178.5
     },
     {
         "Vendor": "FramesDirect",
@@ -51,51 +37,30 @@
     {
         "Vendor": "FramesDirect",
         "Brand": "Ray-Ban",
-        "Product_Name": "RB7140",
-        "Former_Price": 237.0,
-        "Current_Price": 165.9
+        "Product_Name": "RB5387",
+        "Former_Price": 176.0,
+        "Current_Price": 123.2
     },
     {
         "Vendor": "FramesDirect",
         "Brand": "Oakley",
-        "Product_Name": "Holbrook RX",
-        "Former_Price": 187.0,
-        "Current_Price": 130.9
-    },
-    {
-        "Vendor": "FramesDirect",
-        "Brand": "Oakley",
-        "Product_Name": "Centerboard",
-        "Former_Price": 187.0,
-        "Current_Price": 130.9
-    },
-    {
-        "Vendor": "FramesDirect",
-        "Brand": "Oakley",
-        "Product_Name": "Volt Drop",
-        "Former_Price": 227.0,
-        "Current_Price": 158.9
-    },
-    {
-        "Vendor": "FramesDirect",
-        "Brand": "Ray-Ban",
-        "Product_Name": "RB3925V",
-        "Former_Price": 222.0,
-        "Current_Price": 155.4
-    },
-    {
-        "Vendor": "FramesDirect",
-        "Brand": "Oakley",
-        "Product_Name": "Liteboard",
+        "Product_Name": "Overhead",
         "Former_Price": 172.0,
         "Current_Price": 120.4
     },
     {
         "Vendor": "FramesDirect",
-        "Brand": "Ray-Ban",
-        "Product_Name": "RB6493",
-        "Former_Price": 198.0,
-        "Current_Price": 99.0
+        "Brand": "Oakley",
+        "Product_Name": "Neoastra",
+        "Former_Price": 208.0,
+        "Current_Price": 145.6
+    },
+    {
+        "Vendor": "FramesDirect",
+        "Brand": "Oakley",
+        "Product_Name": "Thinboard",
+        "Former_Price": 172.0,
+        "Current_Price": 120.4
     },
     {
         "Vendor": "FramesDirect",
@@ -106,6 +71,13 @@
     },
     {
         "Vendor": "FramesDirect",
+        "Brand": "Gucci",
+        "Product_Name": "GG0011O",
+        "Former_Price": 460.0,
+        "Current_Price": 391.0
+    },
+    {
+        "Vendor": "FramesDirect",
         "Brand": "Versace",
         "Product_Name": "VE1274",
         "Former_Price": 316.0,
@@ -113,36 +85,50 @@
     },
     {
         "Vendor": "FramesDirect",
-        "Brand": "Gucci",
-        "Product_Name": "GG0038ON",
-        "Former_Price": 465.0,
-        "Current_Price": 325.5
+        "Brand": "Persol",
+        "Product_Name": "PO3275V",
+        "Former_Price": 348.0,
+        "Current_Price": 243.6
+    },
+    {
+        "Vendor": "FramesDirect",
+        "Brand": "Kate Spade",
+        "Product_Name": "Lucyann",
+        "Former_Price": 230.0,
+        "Current_Price": 161.0
+    },
+    {
+        "Vendor": "FramesDirect",
+        "Brand": "XXL",
+        "Product_Name": "Egret",
+        "Former_Price": 214.88,
+        "Current_Price": 107.44
     },
     {
         "Vendor": "FramesDirect",
         "Brand": "Versace",
-        "Product_Name": "VE3328",
-        "Former_Price": 286.0,
-        "Current_Price": 200.2
-    },
-    {
-        "Vendor": "FramesDirect",
-        "Brand": "Costa",
-        "Product_Name": "Mariana Trench 510",
-        "Former_Price": 197.0,
-        "Current_Price": 137.9
+        "Product_Name": "VE1288",
+        "Former_Price": 298.0,
+        "Current_Price": 149.0
     },
     {
         "Vendor": "FramesDirect",
         "Brand": "Dolce & Gabbana",
-        "Product_Name": "DG3415",
-        "Former_Price": 335.0,
-        "Current_Price": 234.5
+        "Product_Name": "DG1347",
+        "Former_Price": 316.0,
+        "Current_Price": 158.0
+    },
+    {
+        "Vendor": "FramesDirect",
+        "Brand": "Burberry",
+        "Product_Name": "BE1392",
+        "Former_Price": 421.0,
+        "Current_Price": 294.7
     },
     {
         "Vendor": "FramesDirect",
         "Brand": "FramesDirect Collection",
-        "Product_Name": "V61031",
+        "Product_Name": "V63027",
         "Former_Price": null,
         "Current_Price": 73.0
     },
@@ -155,16 +141,30 @@
     },
     {
         "Vendor": "FramesDirect",
-        "Brand": "Versace",
-        "Product_Name": "VE3369",
-        "Former_Price": 406.0,
-        "Current_Price": 203.0
+        "Brand": "RALPH by Ralph Lauren",
+        "Product_Name": "RA7158U",
+        "Former_Price": 141.0,
+        "Current_Price": 98.7
+    },
+    {
+        "Vendor": "FramesDirect",
+        "Brand": "Tiffany & Co.",
+        "Product_Name": "TF2292F",
+        "Former_Price": 398.0,
+        "Current_Price": 278.6
     },
     {
         "Vendor": "FramesDirect",
         "Brand": "Polo",
-        "Product_Name": "PH2117",
-        "Former_Price": null,
-        "Current_Price": 194.0
+        "Product_Name": "PH2083",
+        "Former_Price": 201.0,
+        "Current_Price": 140.7
+    },
+    {
+        "Vendor": "FramesDirect",
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB5397 - Elliot Optics",
+        "Former_Price": 210.0,
+        "Current_Price": 147.0
     }
 ]
